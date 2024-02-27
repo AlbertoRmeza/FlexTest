@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #72115f;
+    padding: 50px;
+    margin: 0;
+    color: white;
+}
+
+.container{
+    display: flex;
+    flex-flow: column wrap;
+    width: 600px;
+    background-color: burlywood;
+    padding: 10px;
+    border: 2px black;
+}
+
+.container div{
+    background-color: gainsboro;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border: 2px solid black;
+}
+
+
+
